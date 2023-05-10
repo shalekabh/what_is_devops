@@ -2,7 +2,7 @@
 
 ### What is Devops?
 
-DevOps is a set of practices that combines software development ( Dev) and IT operations ( Ops ). It aims to shorten the systems development life cycle and provide continuous delivery with high software quality. DevOps is complementary with Agile software development; several DevOps aspects came from the Agile methodology and implement tthe CI/CD culture.
+DevOps is a set of practices that combines software development ( Dev) and IT operations ( Ops )teams and improves the overall communication. It aims to shorten the systems development life cycle and provide continuous delivery and maintainance with high software quality. DevOps is complementary with Agile software development; several DevOps aspects came from the Agile methodology and implement tthe CI/CD culture so we can shorten the time we can safely deploy our product for clients.
 ![Alt text](DevOps-processes.png)
 
 ### Why is Devops useful in a business?
@@ -82,4 +82,11 @@ Etsy: Etsy is an online marketplace that connects buyers and sellers of handmade
 
 Target: Target is a large retail chain that has embraced DevOps to improve its software development and delivery processes. The company has implemented a DevOps culture that encourages collaboration between teams and emphasizes the use of automation and continuous delivery. Target uses tools such as Jenkins for continuous integration and delivery, Puppet for configuration management, and New Relic for monitoring and alerting.
 ![Alt text](target.jpg)
-.
+
+### 4 Pillars of Devops in the cloud
+Ease of use – other teams will use our tools, but people wont use them if they’re not user friendly – if the other teams do not use our tools, then there will be problems and delays in the deployment down the line.
+Flexibility – it can be easy to get locked in to using a specific software, tool or product as a business. When that’s the case it becomes much harder to keep up with industry changes. – Everything the company uses should be easily changed or updated as the business needs.
+Robustness – we need close to 100% up time of our services as possible. – As Devops engineers this is OUR responsibility.
+Cost – cost is often overlooked, we need to make sure the company is being as efficient as possible in its tech dealings. – for example how powerful is a machine that we need to run a service or conduct a task, do we need a certain amount of servers running etc.
+![Alt text](MicrosoftTeams-image%20(1).png)
+
