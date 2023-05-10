@@ -84,9 +84,13 @@ Target: Target is a large retail chain that has embraced DevOps to improve its s
 ![Alt text](target.jpg)
 
 ### 4 Pillars of Devops in the cloud
+
 Ease of use – other teams will use our tools, but people wont use them if they’re not user friendly – if the other teams do not use our tools, then there will be problems and delays in the deployment down the line.
+
 Flexibility – it can be easy to get locked in to using a specific software, tool or product as a business. When that’s the case it becomes much harder to keep up with industry changes. – Everything the company uses should be easily changed or updated as the business needs.
+
 Robustness – we need close to 100% up time of our services as possible. – As Devops engineers this is OUR responsibility.
+
 Cost – cost is often overlooked, we need to make sure the company is being as efficient as possible in its tech dealings. – for example how powerful is a machine that we need to run a service or conduct a task, do we need a certain amount of servers running etc.
 ![Alt text](MicrosoftTeams-image%20(1).png)
 
