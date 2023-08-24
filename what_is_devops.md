@@ -9,7 +9,7 @@ DevOps is a set of practices that combines software development ( Dev) and IT op
 
 Devops culture creates efficient time management for projects that follow the agile way of working. This also leads into the disintergration of silos, as you will have to work together as an intergrated team rather than secluded to your diciplinary group. As i touched on the last section, Devops focuses more on the CI/CD way of working, which allows faster times to deliver solutions, as we have different groups of people working on the same project at the same time.
 
-### What does a Devops engineer do??
+### What does a Devops engineer do?
 
 A DevOps engineer is responsible for any number of tasks related to:
 
